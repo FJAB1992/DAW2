@@ -1,0 +1,79 @@
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "Newton Howard Font Italic";
+    src: url("Newton Howard Font Italic.otf");
+}
+
+@font-face {
+    font-family: "Dash-Horizon-Demo";
+    src: url("Dash-Horizon-Demo");
+}
+
+body {
+    font-family: Newton Howard Font Italic;
+    text-align: center;
+    background-image: url(../img/fondo-neon.jpg);
+    background-size: contain;
+
+}
+
+h1 {
+    font-size: 50px;
+    text-shadow: 5px 5px 5px #cdcfd6e0;
+
+}
+
+header {
+    margin-bottom: 650px;
+}
+
+div .estilos {
+    width: 80%;
+    height: 90%;
+    margin: 0 auto;
+    margin-bottom: 200px;
+}
+
+a {
+    text-decoration: none;
+    background-image: linear-gradient(to top, #297d88, #3e36ac);
+    text-shadow: 3px 2px 1px #f7ad24;
+    box-shadow: 6px 5px 24px rgb(168, 152, 9);
+    color: #fafafa;
+    font-size: 27px;
+    padding: 20px;
+    border-radius: 18px;
+    margin-left: 10px;
+}
+
+a:hover {
+    background-image: linear-gradient(to bottom, #b6679dc9, #24c077);
+    color: rgba(204, 26, 26, 0.938);
+}
+
+div .presentacion {
+    width: 70%;
+    height: 200px;
+    font-family: Dash-Horizon-Demo;
+    font-size: 40px;
+    margin-top: 100px;
+    margin-block-end: auto;
+    clear: both;
+
+}
+
+p {
+    margin-top: 50px;
+}
+
+footer {
+    font-size: 13px;
+}
+
+footer,
+.presentacion {
+    color: whitesmoke;
+}

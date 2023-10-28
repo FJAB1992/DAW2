@@ -1,0 +1,88 @@
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "GODOFWAR";
+    src: url("GODOFWAR.TTF");
+}
+
+body {
+    font-family: GODOFWAR;
+    background-image: url(../img/wall.jpg);
+    background-size: contain;
+    color: rgb(44, 160, 255);
+}
+
+div {
+    width: 100%;
+    height: 75%;
+    text-align: center;
+    border-radius: black 15px solid;
+    font-size: 20px;
+    margin-bottom: 80px;
+}
+
+div .p {
+    border:solid red;
+    background-color: rgb(102, 102, 102);
+    border-radius: 12px;
+}
+
+h1 {
+    font-size: 50px;
+    text-shadow: 6px 3px 1px rgb(89, 158, 61);
+}
+
+h2 {
+    font-size: 30px;
+    text-shadow: 6px 3px 1px rgb(89, 158, 61);
+}
+
+.artistas {
+    padding: 20px;
+    float: left;
+    clear: both;
+}
+
+img {
+    border: 3px ridge goldenrod;
+}
+
+#DMimg{
+    width: 400px;
+    height: 500px;
+}
+
+#alboimg {
+    width: 800px;
+    height: 500px;
+}
+
+a {
+    padding: 20px;
+    text-decoration: none;
+    color: yellowgreen;
+    font-size: 16px;
+    text-align: left;
+    border-radius: 22px;
+    border: 5px solid black;
+    background-image: linear-gradient(to bottom, rgb(201, 14, 14), rgb(0, 255, 0));
+    text-shadow: 3px 2px 1px olive;
+    box-shadow: 12px 15px 24px rgb(204, 36, 64);
+}
+
+a:hover {
+    background-image: linear-gradient(to right, rgb(255, 0, 212), rgb(117, 80, 117));
+    color: chartreuse;
+}
+
+span.capital {
+    background-color: rgb(197, 255, 192);
+    color: coral;
+    font-size: 300%;
+}
+#bob{
+    height: 500px;
+    width: 600px;
+}
