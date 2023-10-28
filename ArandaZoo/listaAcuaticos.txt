@@ -1,0 +1,6 @@
+Animal [id=1, edad=2, nombreCuidador=paco, fechaEntrada=2022-12-13]Acuatico [comida=camarones]
+
+
+Animal [id=4, edad=2, nombreCuidador=paco, fechaEntrada=2021-11-13]Acuatico [comida=sardinas]
+
+

@@ -1,0 +1,16 @@
+Bebida [idBebida=Bebida azucarada ID: 0008, unidades=120, precio=0.2, fechaEntrada=2022-02-08, marca=Cacaolat, estanteria=1]BebidaAzucarada [porcentajeAzucar=0.4, promocion=true]
+
+Bebida [idBebida=Bebida azucarada ID: 0002, unidades=15, precio=0.4, fechaEntrada=2023-06-13, marca=CocaCola, estanteria=1]BebidaAzucarada [porcentajeAzucar=0.8, promocion=true]
+
+Bebida [idBebida=Agua ID: 0001, unidades=150, precio=0.9, fechaEntrada=2023-06-13, marca=Aquabona, estanteria=1]Agua [origenManantial=Sacalm]
+
+Bebida [idBebida=Agua ID: 0002, unidades=50, precio=0.45, fechaEntrada=2023-06-13, marca=AquaSectum, estanteria=2]Agua [origenManantial=Alora]
+
+Bebida [idBebida=Agua ID: 0003, unidades=250, precio=0.68, fechaEntrada=2023-06-13, marca=Lidl, estanteria=3]Agua [origenManantial=Motril]
+
+Bebida [idBebida=Agua ID: 0004, unidades=10, precio=0.7, fechaEntrada=2023-06-13, marca=FontBella, estanteria=1]Agua [origenManantial=Granada]
+
+Bebida [idBebida=Bebida azucarada ID: 0004, unidades=150, precio=0.5, fechaEntrada=2023-09-08, marca=Fanta, estanteria=2]BebidaAzucarada [porcentajeAzucar=0.2, promocion=false]
+
+Bebida [idBebida=Bebida azucarada ID: 0006, unidades=100, precio=0.3, fechaEntrada=2023-12-08, marca=Nestea, estanteria=3]BebidaAzucarada [porcentajeAzucar=0.5, promocion=false]
+

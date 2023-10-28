@@ -1,0 +1,6 @@
+Animal [id=5, edad=1, nombreCuidador=pol, fechaEntrada=2002-12-12]Terrestre [velocidad=12.0, pelaje=largo]
+
+
+Animal [id=3, edad=2, nombreCuidador=paco, fechaEntrada=2002-10-13]Terrestre [velocidad=30.0, pelaje=largo]
+
+
